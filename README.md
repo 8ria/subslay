@@ -114,7 +114,7 @@ Pull requests are welcome! Consider contributing by:
 
 ## 📄 License
 
-MIT © AndriaK
+MIT License © [AndriaK](mailto:hey@andriaK.com)
 
 ---
 
